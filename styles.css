@@ -1,0 +1,40 @@
+/* Reset some default styles for better consistency */
+body, h1, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff; /* Blue color for the heading */
+}
+
+.counter-number {
+    font-size: 18px;
+    color: #28a745; /* Green color for the counter */
+    margin-top: 10px;
+}
+
+/* Add some styles to the navigation items (you can customize this further) */
+.nav-item {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.active {
+    font-weight: bold;
+    color: #28a745;
+}
