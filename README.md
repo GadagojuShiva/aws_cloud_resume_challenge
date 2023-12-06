@@ -154,4 +154,4 @@ updateCounter();
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=200
-[linkedin-url]: https://linkedin.com/in/gadagojushiva
+[linkedin-url]: https://www.linkedin.com/in/gadagoju-shiva/
