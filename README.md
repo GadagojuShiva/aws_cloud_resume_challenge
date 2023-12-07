@@ -143,7 +143,7 @@ updateCounter();
    ```
 6. Update the workflow code according to your requirements and ensure that SOURCE_DIR matches your website folder in the repository.
 7. Push changes to the repository, and GitHub Actions will automatically deploy changes to the S3 bucket.
-##Step 6: Custom Domain (Optional)
+## Step 6: Custom Domain (Optional)
 1. Add a custom domain to your CloudFront distribution
 2. Update DNS settings to point to the CloudFront distribution.
 3. Wait for DNS propagation.
