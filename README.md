@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-#readme-top
+<a name="readme-top"></a>
 # AWS Cloud Resume Challenge
 
 ## TABLE OF CONTENT
