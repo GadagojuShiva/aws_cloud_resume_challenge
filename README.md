@@ -61,7 +61,7 @@ updateCounter();
 ```
 4. Test your website locally.
   
-##Step 3: Set Up S3 Bucket and CloudFront Distribution
+## Step 3: Set Up S3 Bucket and CloudFront Distribution
 1. Create an S3 bucket named `cloud-resume-demo`.
 2. Enable public access and ACL for the S3 bucket.
 3. Upload your website files to the S3 bucket.
@@ -75,7 +75,7 @@ updateCounter();
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Step 4: Create DynamoDB Table and Update Lambda Function
+## Step 4: Create DynamoDB Table and Update Lambda Function
 1. Create a DynamoDB table named `cloudresume-test`with the partition key `id`.
 2. Create an item with `id` value `1` and add a `new attribute` `number` name it as  `views` with the initial value of `1`.
 3. Update the Lambda function code:
@@ -105,7 +105,7 @@ updateCounter();
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Step 5: Implement CI/CD with GitHub Actions
+## Step 5: Implement CI/CD with GitHub Actions
 
 1. Create a GitHub repository named `aws_cloud-resume_challenge`.
 2. Add website files to the repository.
