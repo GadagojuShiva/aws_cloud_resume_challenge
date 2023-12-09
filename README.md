@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/AWS-Cloud_Resume_Challenge-orange?style=flat&logo=amazon-aws&logoColor=black" alt="AWS Cloud Resume Challenge" width="600"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Resume_Challenge-orange?style=flat&logo=amazon-aws&logoColor=black" alt="AWS Cloud Resume Challenge" width="1000"/>
 
 <a name="readme-top"></a>
 # AWS Cloud Resume Challenge
